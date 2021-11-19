@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
-import com.bridgelabz.censusanalyser.StateCensusAnalyser;
+//import com.bridgelabz.StateCensusAnalyser;
 
 public class StateCensusAnalyserTest {
     private static final String CORRECT_CSV_FILE_PATH = "src/main/resources/IndianStateCensusData.csv";
